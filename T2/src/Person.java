@@ -14,4 +14,5 @@ public class Person {
     int weight;
     int h;
     int t2;
+    int t1;
 }
