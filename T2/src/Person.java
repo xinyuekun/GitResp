@@ -12,4 +12,6 @@ public class Person {
     int aaaaa;
     int height;
     int weight;
+    int h;
+    int t2;
 }
